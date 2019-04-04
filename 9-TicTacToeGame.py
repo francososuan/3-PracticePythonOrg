@@ -79,8 +79,6 @@ while True:
             elif TTT_checker(game) == "O":
                 print("The winner is player 2")
 
-
-
         else:
             print("Error! the coordinates you have chosen is invalid")
 
